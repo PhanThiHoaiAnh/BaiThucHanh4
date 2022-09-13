@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ActivitySignIn"
+    android:background="@drawable/backgr_su">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="ĐĂNG KÝ TÀI KHOẢN"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-condensed-light"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:text="Bạn chưa có tài khoản? Mời đăng ký."
+        android:textStyle="italic"
+        android:gravity="center"/>
+
+    <EditText
+        android:id="@+id/edit_txtFirstName"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:inputType="textPersonName"
+        android:hint="First Name"
+        android:layout_gravity="center"
+        android:background="@drawable/border_signup"
+        android:paddingLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="15dp"/>
+
+    <EditText
+        android:id="@+id/edit_txtLastName"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:inputType="textPersonName"
+        android:hint="Last Name"
+        android:layout_gravity="center"
+        android:background="@drawable/border_signup"
+        android:paddingLeft="20dp"
+        android:layout_marginBottom="15dp"/>
+
+    <EditText
+        android:id="@+id/edit_txtEmail"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:inputType="textPersonName"
+        android:hint="E-mail *"
+        android:layout_gravity="center"
+        android:background="@drawable/border_signup"
+        android:paddingLeft="20dp"/>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <RadioButton
+            android:id="@+id/radioMale"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:text="Male"
+            android:textSize="18dp"/>
+
+        <RadioButton
+            android:id="@+id/radioFemale"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:text="Female"
+            android:textSize="18dp"/>
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/edit_txtUserName"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:inputType="textPersonName"
+        android:hint="Username *"
+        android:layout_gravity="center"
+        android:background="@drawable/border_signup"
+        android:paddingLeft="20dp"
+        android:layout_marginBottom="15dp"/>
+
+    <EditText
+        android:id="@+id/edit_txtPassword"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:hint="Password *"
+        android:inputType="textPassword"
+        android:layout_gravity="center"
+        android:background="@drawable/border_signup"
+        android:paddingLeft="20dp"
+        android:layout_marginBottom="6dp"/>
+
+    <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Show Password"
+        android:textSize="17dp"
+        android:textStyle="italic"
+        android:textColor="#3C2467"/>
+
+    <EditText
+        android:id="@+id/edit_txtConFirmPass"
+        android:layout_width="350dp"
+        android:layout_height="50dp"
+        android:hint="Confirm Password *"
+        android:inputType="textPassword"
+        android:layout_gravity="center"
+        android:background="@drawable/border_signup"
+        android:paddingLeft="20dp"/>
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Show Password"
+        android:textSize="17dp"
+        android:textStyle="italic"
+        android:textColor="#3C2467"/>
+
+    <Button
+        android:id="@+id/btnDK"
+        android:layout_width="200dp"
+        android:layout_height="58dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:backgroundTint="@color/blue3"
+        android:text="SIGN UP"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:cornerRadius="50dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:text="------OR------"
+        android:gravity="center"/>
+
+    <Button
+        android:id="@+id/btnDN"
+        android:layout_width="200dp"
+        android:layout_height="58dp"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/blue3"
+        android:text="SIGN IN"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        app:cornerRadius="50dp" />
+
+</LinearLayout>

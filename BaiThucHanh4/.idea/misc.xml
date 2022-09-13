@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable-v24/border.xml" value="0.2015" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable-v24/border_layout.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable-v24/border_profile.xml" value="0.1615" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable-v24/border_signup.xml" value="0.231" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable-v24/circle.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable-v24/ic_baseline_account_circle_24.xml" value="0.2195" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable-v24/ic_baseline_assignment_24.xml" value="0.228" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable-v24/ic_baseline_edit_24.xml" value="0.228" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable-v24/ic_baseline_favorite_border_24.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable-v24/ic_baseline_format_list_bulleted_24.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable-v24/ic_baseline_menu_24.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable-v24/ic_baseline_notifications_none_24.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable-v24/ic_baseline_pass.xml" value="0.1285" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable-v24/ic_baseline_person_24.xml" value="0.1085" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable-v24/ic_baseline_photo_library_24.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.228" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable/ic_baseline_circle_notifications_24.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable/ic_baseline_edit_note_24.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.228" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable/ic_baseline_supervisor_account_24.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1335" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/layout/activity_2.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/layout/activity_signin.xml" value="0.22" />
+        <entry key="..\:/AndroidStudio_Projects/BaiThucHanh4/app/src/main/res/layout/activity_signup.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
